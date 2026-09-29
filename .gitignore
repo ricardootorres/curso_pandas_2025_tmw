@@ -1,0 +1,4 @@
+# Meu objetivo é que ignore os arquivos csv's e db
+
+*.csv
+*.db
